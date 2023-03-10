@@ -42,3 +42,15 @@ Rta:
 -Medios: Se refieren a los canales o vías físicas o inalámbricas a través de los cuales se transmiten los datos de un dispositivo a otro en una red.
 -Mensajes: Es un conjunto de datos que se envía desde un dispositivo de origen a uno o varios dispositivos de destino a través de la red. 
 -Dispositivos: Son los componentes físicos que se conectan a la red y que permiten la comunicación y el intercambio de datos entre ellos.
+
+Capitulo 2:
+
+5)¿Por qué se dice que un protocolo es independiente de la tecnología?
+Rta:
+Se menciona esto ya que los protocolos definen un conjunto de reglas y convenciones, esto conlleva a que los protocolos proveen una capa de abstracción independiente entre cada componente de la red con el objetivo de que diferentes tecnologías y dispositivos se comuniquen de manera confiable y eficiente.
+
+6)Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo (PDU).
+Rta:
+Es una unidad de información que se utiliza en la comunicación entre dos dispositivos en una red de computadoras. Se compone de una abstracción que representa los datos que se transmiten a través de la red, su formato y contenido dependen del protocolo de red que se esté utilizando.
+
+7)
