@@ -2,6 +2,7 @@ Capitulo 1:
 1)Describir el efecto que tienen las redes en nuestra vida cotidiana.
 Rta:
 Las redes han tenido un impacto significativo en nuestra vida fortaleciendo la forma de comunicarnos, ampliando nuestro alcance social y laboral. Permiten intercambiar y compartir información cuyo objetivo es aumentar la productividad en todo el planeta.
+
 2)Listar las actividades cotidianas que realiza usted utilizando internet.
 Rta:
 Ingreso a plataformas educativas.
@@ -10,3 +11,29 @@ Redes sociales.
 Compras en línea.
 Gps.
 Gestión de correos.
+
+3)Dar ejemplos de herramientas de comunicación que utiliza o ha utilizado.
+Rta:
+Se resaltan diferentes categorías:
+-Mensajería instantánea: Es una forma de comunicación en tiempo real entre dos o más personas en forma de texto escrito que incorpora transferencia de archivos, comunicación por voz y
+video.
+    *WhatsApp: Es una aplicación muy popular que permite a los usuarios enviar mensajes, hacer llamadas de voz y videollamadas.
+    *Facebook Messenger: Es la plataforma de mensajería de Facebook, que permite a los usuarios enviar mensajes y hacer llamadas de voz y videollamadas.
+-Herramientas de colaboración: Permiten a las personas trabajar conjuntamente y compartir documentos.
+    *Stack Overflow: Es una comunidad en línea de programadores y desarrolladores de software que buscan compartir conocimientos, resolver problemas y discutir temas relacionados con la programación y la informática.
+-Wikis: son páginas Web que un grupo de personas puede editar y visualizar.
+    *Wikipedia: Es una enciclopedia en línea y de acceso libre que contiene información sobre una amplia variedad de temas.
+-Blog: Son páginas Web fáciles de actualizar y editar.
+    *JavaWorld: Es un blog que se enfoca en temas de Java, incluyendo tutoriales, consejos, noticias y tendencias en el mundo de Java.
+
+4)Describir los factores que afectan la calidad de las comunicaciones.
+Rta:
+Se distinguen dos tipos de factores: Externos e internos.
+-Externos:  Se refieren a cualquier influencia o circunstancia fuera de la red misma que pueda afectar su funcionamiento, seguridad o disponibilidad. 
+Algunos de estos son: Sobrecarga de tráfico.
+-Internos: Se refieren a cualquier aspecto dentro de la red misma que pueda afectar su funcionamiento.
+    *Tamaño de mensaje: se refiere al tamaño del paquete de datos que se transmite a través de la red.
+    *Complejidad del mensaje: Se refiere a la cantidad de información y complejidad que contiene el mensaje transmitido a través de la red. Por ejemplo, un mensaje de correo electrónico simple puede tener una complejidad relativamente baja, ya que contiene solo texto y algunos archivos adjuntos, mientras que un mensaje de transmisión de video de alta definición puede tener una complejidad mucho mayor debido a la cantidad de datos involucrados y la necesidad de una transmisión de alta velocidad.
+    *Importancia del mensaje: La prioridad del mensaje se refiere a la importancia o urgencia de un mensaje específico en comparación con otros mensajes que se transmiten a través de la red. 
+
+5)
