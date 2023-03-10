@@ -36,4 +36,9 @@ Algunos de estos son: Sobrecarga de tráfico.
     *Complejidad del mensaje: Se refiere a la cantidad de información y complejidad que contiene el mensaje transmitido a través de la red. Por ejemplo, un mensaje de correo electrónico simple puede tener una complejidad relativamente baja, ya que contiene solo texto y algunos archivos adjuntos, mientras que un mensaje de transmisión de video de alta definición puede tener una complejidad mucho mayor debido a la cantidad de datos involucrados y la necesidad de una transmisión de alta velocidad.
     *Importancia del mensaje: La prioridad del mensaje se refiere a la importancia o urgencia de un mensaje específico en comparación con otros mensajes que se transmiten a través de la red. 
 
-5)
+5)Identificar los componentes clave de cualquier red de datos y describir su funcionamiento.
+Rta:
+-Reglas: Se refieren a las políticas y normas que se establecen para controlar y gestionar el tráfico y los recursos de la red. 
+-Medios: Se refieren a los canales o vías físicas o inalámbricas a través de los cuales se transmiten los datos de un dispositivo a otro en una red.
+-Mensajes: Es un conjunto de datos que se envía desde un dispositivo de origen a uno o varios dispositivos de destino a través de la red. 
+-Dispositivos: Son los componentes físicos que se conectan a la red y que permiten la comunicación y el intercambio de datos entre ellos.
