@@ -74,7 +74,7 @@ Debido a que todas las redes tienen ciertos inconvenientes y además estas no ti
 servicio. Asegurar esta requiere de un grupo de técnicas para administrar la utilización de los recursos de red , también se deben priorizar los tipos de paquetes
 de datos que deben enviarse a expensas de otros paquetes que puedan retrasarse.
 
-10.¿Por qué importa la calidad del servicio en una red de datos? 
+10)¿Por qué importa la calidad del servicio en una red de datos? 
 Rta:
 Porque garantiza que los recursos de la red se utilicen de manera eficiente y equitativa, y que los servicios críticos tengan la prioridad adecuada para asegurar un
 funcionamiento óptimo de la red.
