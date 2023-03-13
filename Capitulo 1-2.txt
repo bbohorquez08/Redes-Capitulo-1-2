@@ -68,6 +68,12 @@ establecida por medio de un protocolo que asegura la disponibilidad de un canal 
 -Redes No orientadas a conexión: Es un tipo de red en el cual no se establece una conexión previa antes de intercambiar datos. Se envían paquetes de datos independientes
 a través de la red sin establecer un canal de comunicación.
 
+9)Describa que es la calidad del servicio y que se necesita para mantener una buena calidad de servicio para las aplicaciones que lo requieren.
+Rta:
+Debido a que todas las redes tienen ciertos inconvenientes y además estas no tienen recursos infinitos, se debe de utilizar mecanismos para garantizar la calidad de
+servicio. Asegurar esta requiere de un grupo de técnicas para administrar la utilización de los recursos de red , también se deben priorizar los tipos de paquetes
+de datos que deben enviarse a expensas de otros paquetes que puedan retrasarse.
+
 Capitulo 2:
 
 5)�Por qu� se dice que un protocolo es independiente de la tecnolog�a?
