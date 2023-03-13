@@ -61,6 +61,12 @@ con la calidad de experimentar el mismo servicio en persona.
 -Seguridad: Debido al exponencial crecimiento de internet se ve obligado a tener una arquitectura de red que brinde seguridad para la integridad de los datos
 y actualmente se está investigando mucho este área de seguridad.
 
+8)Investigar qué son las redes orientadas y no orientadas a la conexión.
+Rta:
+-Redes orientadas a la conexión: Es un tipo de red en el cual se establece una conexión entre dos dispositivos antes de  que puedan intercambiar datos, esta es
+establecida por medio de un protocolo que asegura la disponibilidad de un canal de comunicación.
+-Redes No orientadas a conexión: Es un tipo de red en el cual no se establece una conexión previa antes de intercambiar datos. Se envían paquetes de datos independientes
+a través de la red sin establecer un canal de comunicación.
 
 Capitulo 2:
 
