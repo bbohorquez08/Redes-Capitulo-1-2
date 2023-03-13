@@ -152,3 +152,21 @@ Transmisi�n y recepci�n de flujos de bits sin procesar
 Rta:
 La principal diferencia que existe entre estos dos modelos es que los modelos de protocolo se centran en los detalles espec�ficos de un protocolo de red (estructura), mientras que los modelos de referencia son marcos m�s amplios que describen c�mo funcionan los procesos involucrados en las redes en general.
 
+9)Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
+Rta:
+Modelo OSI:
+-Capa de aplicación: En esta capa se intercambian datos y ofrece la interfaz a la red para interactuar.
+-Capa de presentación: Codifica y convierte datos, compresión de datos y encriptación de los datos de la capa de aplicación.
+-Capa de sesión: Maneja el intercambio de información para iniciar los diálogos y mantenerlos activos tanto de origen y destino.
+-Capa de transporte: Define los servicios para segmentar, transferir los datos para las comunicaciones individuales.
+-Capa de red: Proporciona servicios para intercambiar los datos individuales en la red.
+-Capa de enlace de datos: Se encarga de proporcionar un enlace de comunicación confiable entre dispositivos en una misma red física.
+-Capa física: Se encarga de la transmisión y recepción de datos entre dispositivos en una red, se establece una conexión física y después se definen las características
+necesarias para transmitir los datos.
+Modelo TCP/IP:
+-Capa de aplicación: Proporcionan el intercambio de información del usuario.
+-Capa de transporte: Se encarga de la transferencia de datos de manera confiable entre los dispositivos de origen y destino 
+-Capa de red(o internet): Se encarga de la entrega de datos de una red a otra red, además es responsable de enrutar los paquetes de datos desde un origen a otro destino
+usando el protocolo IP.
+-Capa de acceso a la red: Se encarga de la transmisión física de los datos a través del medio físico de la red como por ejemplo cableado de cobre y fibra óptica.
+Además también se encarga de mantener la conexión entre los dispositivos.
