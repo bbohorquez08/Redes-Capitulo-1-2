@@ -104,6 +104,12 @@ Rta:
 Con todo lo definido anteriormente se puede concluir que la principal  diferencia entre estos términos es el alcance geográfico de la red como se puede ver lan cubre
 un área pequeña, wan cubre un área amplia, internetwork conecta tipos de redes e internet es una red global de redes interconectadas.
 
+3)¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
+Rta:
+Como se definió anteriormente internetwork es una red formada por la interconexión de dos o más redes de diferentes tipos  ya sean lan o wan que se conectan por un
+router o dispositivo similar, en cambio por otro lado internet es una red global de redes que conecta computadoras y dispositivos en todo el mundo.
+Prácticamente la principal diferencia entre estos dos términos es en base a su alcance y naturaleza.
+
 5)�Por qu� se dice que un protocolo es independiente de la tecnolog�a?
 Rta:
 Se menciona esto ya que los protocolos definen un conjunto de reglas y convenciones, esto conlleva a que los protocolos proveen una capa de abstracci�n independiente entre cada componente de la red con el objetivo de que diferentes tecnolog�as y dispositivos se comuniquen de manera confiable y eficiente.
