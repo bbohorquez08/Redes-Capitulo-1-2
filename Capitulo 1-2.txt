@@ -1,83 +1,90 @@
 Capitulo 1:
 1)Describir el efecto que tienen las redes en nuestra vida cotidiana.
 Rta:
-Las redes han tenido un impacto significativo en nuestra vida fortaleciendo la forma de comunicarnos, ampliando nuestro alcance social y laboral. Permiten intercambiar y compartir información cuyo objetivo es aumentar la productividad en todo el planeta.
+Las redes han tenido un impacto significativo en nuestra vida fortaleciendo la forma de comunicarnos, ampliando nuestro alcance social y laboral. Permiten intercambiar y compartir informaciï¿½n cuyo objetivo es aumentar la productividad en todo el planeta.
 
 2)Listar las actividades cotidianas que realiza usted utilizando internet.
 Rta:
 Ingreso a plataformas educativas.
 Entretenimiento.
 Redes sociales.
-Compras en línea.
+Compras en lï¿½nea.
 Gps.
-Gestión de correos.
+Gestiï¿½n de correos.
 
-3)Dar ejemplos de herramientas de comunicación que utiliza o ha utilizado.
+3)Dar ejemplos de herramientas de comunicaciï¿½n que utiliza o ha utilizado.
 Rta:
-Se resaltan diferentes categorías:
--Mensajería instantánea: Es una forma de comunicación en tiempo real entre dos o más personas en forma de texto escrito que incorpora transferencia de archivos, comunicación por voz y
+Se resaltan diferentes categorï¿½as:
+-Mensajerï¿½a instantï¿½nea: Es una forma de comunicaciï¿½n en tiempo real entre dos o mï¿½s personas en forma de texto escrito que incorpora transferencia de archivos, comunicaciï¿½n por voz y
 video.
-    *WhatsApp: Es una aplicación muy popular que permite a los usuarios enviar mensajes, hacer llamadas de voz y videollamadas.
-    *Facebook Messenger: Es la plataforma de mensajería de Facebook, que permite a los usuarios enviar mensajes y hacer llamadas de voz y videollamadas.
--Herramientas de colaboración: Permiten a las personas trabajar conjuntamente y compartir documentos.
-    *Stack Overflow: Es una comunidad en línea de programadores y desarrolladores de software que buscan compartir conocimientos, resolver problemas y discutir temas relacionados con la programación y la informática.
--Wikis: son páginas Web que un grupo de personas puede editar y visualizar.
-    *Wikipedia: Es una enciclopedia en línea y de acceso libre que contiene información sobre una amplia variedad de temas.
--Blog: Son páginas Web fáciles de actualizar y editar.
+    *WhatsApp: Es una aplicaciï¿½n muy popular que permite a los usuarios enviar mensajes, hacer llamadas de voz y videollamadas.
+    *Facebook Messenger: Es la plataforma de mensajerï¿½a de Facebook, que permite a los usuarios enviar mensajes y hacer llamadas de voz y videollamadas.
+-Herramientas de colaboraciï¿½n: Permiten a las personas trabajar conjuntamente y compartir documentos.
+    *Stack Overflow: Es una comunidad en lï¿½nea de programadores y desarrolladores de software que buscan compartir conocimientos, resolver problemas y discutir temas relacionados con la programaciï¿½n y la informï¿½tica.
+-Wikis: son pï¿½ginas Web que un grupo de personas puede editar y visualizar.
+    *Wikipedia: Es una enciclopedia en lï¿½nea y de acceso libre que contiene informaciï¿½n sobre una amplia variedad de temas.
+-Blog: Son pï¿½ginas Web fï¿½ciles de actualizar y editar.
     *JavaWorld: Es un blog que se enfoca en temas de Java, incluyendo tutoriales, consejos, noticias y tendencias en el mundo de Java.
 
 4)Describir los factores que afectan la calidad de las comunicaciones.
 Rta:
 Se distinguen dos tipos de factores: Externos e internos.
 -Externos:  Se refieren a cualquier influencia o circunstancia fuera de la red misma que pueda afectar su funcionamiento, seguridad o disponibilidad. 
-Algunos de estos son: Sobrecarga de tráfico.
+Algunos de estos son: Sobrecarga de trï¿½fico.
 -Internos: Se refieren a cualquier aspecto dentro de la red misma que pueda afectar su funcionamiento.
-    *Tamaño de mensaje: se refiere al tamaño del paquete de datos que se transmite a través de la red.
-    *Complejidad del mensaje: Se refiere a la cantidad de información y complejidad que contiene el mensaje transmitido a través de la red. Por ejemplo, un mensaje de correo electrónico simple puede tener una complejidad relativamente baja, ya que contiene solo texto y algunos archivos adjuntos, mientras que un mensaje de transmisión de video de alta definición puede tener una complejidad mucho mayor debido a la cantidad de datos involucrados y la necesidad de una transmisión de alta velocidad.
-    *Importancia del mensaje: La prioridad del mensaje se refiere a la importancia o urgencia de un mensaje específico en comparación con otros mensajes que se transmiten a través de la red. 
+    *Tamaï¿½o de mensaje: se refiere al tamaï¿½o del paquete de datos que se transmite a travï¿½s de la red.
+    *Complejidad del mensaje: Se refiere a la cantidad de informaciï¿½n y complejidad que contiene el mensaje transmitido a travï¿½s de la red. Por ejemplo, un mensaje de correo electrï¿½nico simple puede tener una complejidad relativamente baja, ya que contiene solo texto y algunos archivos adjuntos, mientras que un mensaje de transmisiï¿½n de video de alta definiciï¿½n puede tener una complejidad mucho mayor debido a la cantidad de datos involucrados y la necesidad de una transmisiï¿½n de alta velocidad.
+    *Importancia del mensaje: La prioridad del mensaje se refiere a la importancia o urgencia de un mensaje especï¿½fico en comparaciï¿½n con otros mensajes que se transmiten a travï¿½s de la red. 
 
 5)Identificar los componentes clave de cualquier red de datos y describir su funcionamiento.
 Rta:
--Reglas: Se refieren a las políticas y normas que se establecen para controlar y gestionar el tráfico y los recursos de la red. 
--Medios: Se refieren a los canales o vías físicas o inalámbricas a través de los cuales se transmiten los datos de un dispositivo a otro en una red.
--Mensajes: Es un conjunto de datos que se envía desde un dispositivo de origen a uno o varios dispositivos de destino a través de la red. 
--Dispositivos: Son los componentes físicos que se conectan a la red y que permiten la comunicación y el intercambio de datos entre ellos.
+-Reglas: Se refieren a las polï¿½ticas y normas que se establecen para controlar y gestionar el trï¿½fico y los recursos de la red. 
+-Medios: Se refieren a los canales o vï¿½as fï¿½sicas o inalï¿½mbricas a travï¿½s de los cuales se transmiten los datos de un dispositivo a otro en una red.
+-Mensajes: Es un conjunto de datos que se envï¿½a desde un dispositivo de origen a uno o varios dispositivos de destino a travï¿½s de la red. 
+-Dispositivos: Son los componentes fï¿½sicos que se conectan a la red y que permiten la comunicaciï¿½n y el intercambio de datos entre ellos.
+
+6)Responda brevemente, Â¿QuÃ© son los datos? Â¿QuÃ© es una red de datos? Â¿QuÃ© es una red convergente?
+Rta: 
+-Los datos son la informaciÃ³n concreta o hechos asociados a alguna persona o contexto en especÃ­fico.
+-Una red de datos es un mecanismo por el cual los sistemas y equipos informÃ¡ticos pueden intercambiar informaciÃ³n entre ellos  ya sean muchos participantes o sÃ³lo dos.
+-Una red convergente es aquella red que puede ejecutar o alojar varios servicios al mismo tiempo como por ejemplo servicios de voz, datos y video, todo integrado en
+una sola red.
 
 Capitulo 2:
 
-5)¿Por qué se dice que un protocolo es independiente de la tecnología?
+5)ï¿½Por quï¿½ se dice que un protocolo es independiente de la tecnologï¿½a?
 Rta:
-Se menciona esto ya que los protocolos definen un conjunto de reglas y convenciones, esto conlleva a que los protocolos proveen una capa de abstracción independiente entre cada componente de la red con el objetivo de que diferentes tecnologías y dispositivos se comuniquen de manera confiable y eficiente.
+Se menciona esto ya que los protocolos definen un conjunto de reglas y convenciones, esto conlleva a que los protocolos proveen una capa de abstracciï¿½n independiente entre cada componente de la red con el objetivo de que diferentes tecnologï¿½as y dispositivos se comuniquen de manera confiable y eficiente.
 
-6)Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo (PDU).
+6)Consultar y explicar brevemente quï¿½ es una Unidad de Datos del Protocolo (PDU).
 Rta:
-Es una unidad de información que se utiliza en la comunicación entre dos dispositivos en una red de computadoras. Se compone de una abstracción que representa los datos que se transmiten a través de la red, su formato y contenido dependen del protocolo de red que se esté utilizando.
+Es una unidad de informaciï¿½n que se utiliza en la comunicaciï¿½n entre dos dispositivos en una red de computadoras. Se compone de una abstracciï¿½n que representa los datos que se transmiten a travï¿½s de la red, su formato y contenido dependen del protocolo de red que se estï¿½ utilizando.
 
-7)Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
+7)Explicar la funciï¿½n de los protocolos en las comunicaciones de redes y para quï¿½ es el proceso de encapsulamiento de los datos (ilustrar el nombre que adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
 Rta:
--Aplicación
+-Aplicaciï¿½n
 Datos
 Apis de alto nivel, compartir recursos y acceso a estos
--Presentación
-Traducción de datos entre un servicio de red y una aplicación incluyendo la codificación de caracteres
--Sesión
-Es el continuo intercambio de información de inicio a final
+-Presentaciï¿½n
+Traducciï¿½n de datos entre un servicio de red y una aplicaciï¿½n incluyendo la codificaciï¿½n de caracteres
+-Sesiï¿½n
+Es el continuo intercambio de informaciï¿½n de inicio a final
 -Transporte
 Segmento
-Transmisión  de segmentos de datos entre los puntos de red
+Transmisiï¿½n  de segmentos de datos entre los puntos de red
 -Red
 Paquete o datagrama dependiendo del protocolo utilizado:
 Tcp->Paquete
 Udp->Datagrama 
-Incluye el direccionamiento, ruteo y control de tráfico en la red
+Incluye el direccionamiento, ruteo y control de trï¿½fico en la red
 -Enlace de datos
 Trama
-Transmisión de datos mediante una capa fisica
+Transmisiï¿½n de datos mediante una capa fisica
 -Fisica
 Bits
-Transmisión y recepción de flujos de bits sin procesar
+Transmisiï¿½n y recepciï¿½n de flujos de bits sin procesar
 
 8)Describir la diferencia entre los modelos de protocolo y modelos de referencia.
 Rta:
-La principal diferencia que existe entre estos dos modelos es que los modelos de protocolo se centran en los detalles específicos de un protocolo de red (estructura), mientras que los modelos de referencia son marcos más amplios que describen cómo funcionan los procesos involucrados en las redes en general.
+La principal diferencia que existe entre estos dos modelos es que los modelos de protocolo se centran en los detalles especï¿½ficos de un protocolo de red (estructura), mientras que los modelos de referencia son marcos mï¿½s amplios que describen cï¿½mo funcionan los procesos involucrados en las redes en general.
 
