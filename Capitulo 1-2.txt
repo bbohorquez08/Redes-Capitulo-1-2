@@ -110,6 +110,12 @@ Como se definió anteriormente internetwork es una red formada por la interconex
 router o dispositivo similar, en cambio por otro lado internet es una red global de redes que conecta computadoras y dispositivos en todo el mundo.
 Prácticamente la principal diferencia entre estos dos términos es en base a su alcance y naturaleza.
 
+4)Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red.
+Rta:
+La NIC es el dispositivo que se utiliza para conectar una computadora a una red, el puerto físico es el punto de conexión física en un dispositivo de red, y la
+interfaz de red es el punto de conexión lógica que se crea para permitir que la NIC se comunique con la red. Juntos, estos componentes permiten que una computadora
+se conecte y se comunique con otros dispositivos de red en una red local o en Internet.
+
 5)�Por qu� se dice que un protocolo es independiente de la tecnolog�a?
 Rta:
 Se menciona esto ya que los protocolos definen un conjunto de reglas y convenciones, esto conlleva a que los protocolos proveen una capa de abstracci�n independiente entre cada componente de la red con el objetivo de que diferentes tecnolog�as y dispositivos se comuniquen de manera confiable y eficiente.
