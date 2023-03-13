@@ -83,6 +83,17 @@ servicio en una red de datos también garantiza una buena experiencia de usuario
 
 Capitulo 2:
 
+1)Describir la estructura de una red, incluidos los dispositivos, medios y servicios necesarios para lograr comunicaciones exitosas. 
+Rta: 
+La estructura de una red se compone de dispositivos,medios y servicios necesarios para lograr comunicaciones.
+-Dispositivos de red: Dispositivos que permiten la interconexión entre los dispositivos finales de la red, como por ejemplo enrutadores o firewalls.
+-Medios de transmisión: Son los medios físicos a través de los cuales se transmiten los datos de un dispositivo a otro, como por ejemplo cables de cobre o redes
+inalámbricas.
+-Protocolos de red: Son los conjuntos de reglas y estándares que rigen la comunicación entre dispositivos en una red.
+-Servicios de red: Son los servicios que proporciona una red a sus usuarios.
+-Seguridad de red: Se encarga de proteger los datos y los dispositivos de la red contra amenazas externas.
+-Cada uno de los componentes mencionados es fundamental para una comunicación exitosa entre los dispositivos de la red y la protección de estos así como de los datos.
+
 5)�Por qu� se dice que un protocolo es independiente de la tecnolog�a?
 Rta:
 Se menciona esto ya que los protocolos definen un conjunto de reglas y convenciones, esto conlleva a que los protocolos proveen una capa de abstracci�n independiente entre cada componente de la red con el objetivo de que diferentes tecnolog�as y dispositivos se comuniquen de manera confiable y eficiente.
