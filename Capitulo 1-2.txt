@@ -94,6 +94,16 @@ inalámbricas.
 -Seguridad de red: Se encarga de proteger los datos y los dispositivos de la red contra amenazas externas.
 -Cada uno de los componentes mencionados es fundamental para una comunicación exitosa entre los dispositivos de la red y la protección de estos así como de los datos.
 
+2)Comparar y contrastar los siguientes términos: RED, LAN, WAN, INTERNETWORK E INTERNET.
+Rta:
+-Red: Es un conjunto de dispositivos interconectados que se comunican entre sí para compartir recursos y datos. Una red puede ser LAN,WAN,INTERNETWORK, o INTERNET.
+-Lan: Es una red limitada a un área geográfica pequeña como por ejemplo una oficina o un edificio.
+-Wan: Es una red que cubre un área geográfica amplia como por ejemplo una ciudad o incluso un país. Estas pueden usar líneas telefónicas o satelitales.
+-Internetwork: Es una red formada por la interconexión de dos o más redes diferentes.
+-Internet: Es una red global de redes que conecta computadoras y dispositivos en todo el mundo.
+Con todo lo definido anteriormente se puede concluir que la principal  diferencia entre estos términos es el alcance geográfico de la red como se puede ver lan cubre
+un área pequeña, wan cubre un área amplia, internetwork conecta tipos de redes e internet es una red global de redes interconectadas.
+
 5)�Por qu� se dice que un protocolo es independiente de la tecnolog�a?
 Rta:
 Se menciona esto ya que los protocolos definen un conjunto de reglas y convenciones, esto conlleva a que los protocolos proveen una capa de abstracci�n independiente entre cada componente de la red con el objetivo de que diferentes tecnolog�as y dispositivos se comuniquen de manera confiable y eficiente.
