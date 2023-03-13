@@ -50,6 +50,18 @@ Rta:
 -Una red convergente es aquella red que puede ejecutar o alojar varios servicios al mismo tiempo como por ejemplo servicios de voz, datos y video, todo integrado en
 una sola red.
 
+7)Describir las características de las arquitecturas de red: tolerante a fallas, escalabilidad, calidad del servicio y seguridad. Mostrar sus respectivos ejemplos. 
+Rta:
+-Tolerancia a fallas: Debido a que en internet existen millones de usuarios que confían plenamente en sus servicios se debe tener una arquitectura que sea tolerante
+a fallos es decir que en caso de que ocurra un fallo el sistema tenga la capacidad de recuperarse rápidamente. Dichas redes dependen de enlaces o rutas redundantes
+entre el origen y el destino del mensaje.
+-Escalabilidad: Es aquella red que puede expandirse a un nivel muy rápido, admitiendo nuevos usuarios,aplicaciones y servicios sin que su rendimiento se vea afectado.
+-Calidad de Servicio: Para los servicios como por ejemplo transmisión de voz, video requieren un nivel de calidad consistente. La calidad de estos servicios se mide
+con la calidad de experimentar el mismo servicio en persona.
+-Seguridad: Debido al exponencial crecimiento de internet se ve obligado a tener una arquitectura de red que brinde seguridad para la integridad de los datos
+y actualmente se está investigando mucho este área de seguridad.
+
+
 Capitulo 2:
 
 5)�Por qu� se dice que un protocolo es independiente de la tecnolog�a?
